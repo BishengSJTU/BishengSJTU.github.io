@@ -1,7 +1,7 @@
 # Site settings
 title: BISHENG's BLOG
 SEOTitle: 昇的博客 | BISHENG's BLOG
-header-img: img/lufei.jpg
+header-img: img/post-bg-debug.png.jpg
 email: bishengnj@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BS, BISHENG's BLOG, 昇的博客, bisheng, 昇, Cpp, python, ROS, 机器学习"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/BishengSJTU" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "You can do more than you can imagine!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lufei.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
