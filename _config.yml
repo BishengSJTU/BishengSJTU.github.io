@@ -11,7 +11,7 @@ github_repo: "https://github.com/BishengSJTU" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Enjoy your life everyday"
+sidebar-about-description: "Enjoy your life everyday!"
 sidebar-avatar: /img/lufei.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/lufei.jpg      # use absolute URL, seeing it's used in both
 # SNS settings
 RSS: false
 # weibo_username:   bisheng
-zhihu_username:     bisheng
+zhihu_username:     xiao-sheng-nian-zhu
 github_username:    bishengsjtu
-facebook_username:  sheng.bi
+facebook_username:  sheng.bi.52459
 jianshu_username:   64e098947cde
 #twitter_username:  bisheng
 
