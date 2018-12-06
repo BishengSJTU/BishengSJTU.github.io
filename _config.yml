@@ -62,8 +62,8 @@ disqus_username: shengbi
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 5bde0292391d06143a96                            #生成的clientID
-  clientSecret: 3d94799ab1967f1f1a48af34be554bc392939c2c    #生成的clientSecret
+  clientID: a58586cede9a75b339ad                            #生成的clientID
+  clientSecret: 2431f1b9cd7317f540bdcc6743ff14659f465d68    #生成的clientSecret
   repo: bishengsjtu.github.io    #仓库名称
   owner: bishengsjtu    #github用户名
   admin: bishengsjtu
@@ -77,8 +77,8 @@ gitalk:
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
