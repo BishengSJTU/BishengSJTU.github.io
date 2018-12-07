@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "  Enjoy your life everyday !"
 sidebar-avatar: /img/lufei.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# Add Latex 
 markdown: kramdown
 
 # SNS settings
