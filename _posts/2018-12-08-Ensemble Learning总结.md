@@ -3,7 +3,7 @@ layout:     post
 title:      Ensemble Learning 总结
 subtitle:   对集成学习做一个总结
 date:       2018-12-09
-author:     BS
+author:     Bisheng
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
