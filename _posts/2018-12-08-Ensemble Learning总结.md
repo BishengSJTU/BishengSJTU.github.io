@@ -24,6 +24,7 @@ tags:
 集成学习有如下优势：
 - 1.可以利用投票的方式减小预测误差，前提是每一个predictor的预测能力已经较好，ensemble往往能进一步提升预测效果
 - 2.在数据空间的不同区域可以用不同predictor进行预测
+
 简单的集成学习方法：
 - Averaging，取模型的平均
 - Weighted Averaging，取模型加权平均
