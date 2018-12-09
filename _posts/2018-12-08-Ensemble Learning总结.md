@@ -68,7 +68,9 @@ Random Forest中的每个模型都是一棵树，为了尽可能将不同的树�
 ![](https://i.loli.net/2018/12/09/5c0cd51ef4163.jpg)
 
 ## Boosting
-Boosting的想法是，映射函数是一系列模型的线性组合，即$$F(x)=\sum_{m=1}^M{f_m}(x)$$
+Boosting的想法是，映射函数是一系列模型组合，即$$F(x)=\sum_{m=1}^M{f_m}(x)$$，Bagging和Stacking以及Random Forest都是并行地学习每一个模型，最后做平均或者投票。
+但是Boosting是根据前面已经学习好的模型$$F_{M-1}(x)$$去有策略地学习第$$M$$个模型$$f_{M}(x)$$，把它加到$$F_{M-1}(x)$$上，得到的$$F_{M}(x)$$表现就会更好。
+Boosting算法比较典型的有AdaBoost和GBDT（以及XGBoost），下一个博客会重点总结这两个模型。
 
 
 <head>
