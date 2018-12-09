@@ -64,7 +64,8 @@ Random Forest中的每个模型都是一棵树，为了尽可能将不同的树�
 在子feature set中选择信息增益（率）最大的feature以及分裂值。
 
 ## Stacking
-1. 将所有训练数据分为N份，对于前N-1份，训练一个例如SVM，预测第N份数据的label,
+详见下图：
+!()[https://i.loli.net/2018/12/09/5c0cd51ef4163.jpg]
 
 ## Boosting
 
