@@ -60,7 +60,7 @@ bias相互抵消了，所以可以认为对Z’做平均后新训练集的数据
 ## Random Forest(Bagging+Random Select Feature Set)
 由上面的分析我们可以知道，在增大bootstrap的次数B的同时，我们可以通过减小数据之间的相关系数$$\rho$$来减小平均值的方差，Random Forest就是利用了这个想法。
 Random Forest中的每个模型都是一棵树，为了尽可能将不同的树解耦，减小它们之间的相关性，
-我们在每个结点进行分裂时，针对的feature set不是所有的feature，而是对所有&&p&&个feature进行sample后（一般选择&&\sqrt{p}&&个），
+我们在每个结点进行分裂时，针对的feature set不是所有的feature，而是对所有$$p$$个feature进行sample后（一般选择$$\sqrt{p}$$个），
 在子feature set中选择信息增益（率）最大的feature以及分裂值。
 
 ## Stacking
@@ -68,6 +68,7 @@ Random Forest中的每个模型都是一棵树，为了尽可能将不同的树�
 ![](https://i.loli.net/2018/12/09/5c0cd51ef4163.jpg)
 
 ## Boosting
+Boosting的想法是，映射函数是一系列模型的线性组合，即$$F(x)=\sum_{m=1}^M{f_m}(x)$$
 
 
 <head>
