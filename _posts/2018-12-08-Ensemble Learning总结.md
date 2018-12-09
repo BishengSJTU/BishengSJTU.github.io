@@ -65,7 +65,7 @@ Random Forest中的每个模型都是一棵树，为了尽可能将不同的树�
 
 ## Stacking
 详见下图：
-!()[https://i.loli.net/2018/12/09/5c0cd51ef4163.jpg]
+![](https://i.loli.net/2018/12/09/5c0cd51ef4163.jpg)
 
 ## Boosting
 
