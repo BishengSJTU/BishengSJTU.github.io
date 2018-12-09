@@ -18,7 +18,7 @@ tags:
 > 
 >
 > 
-由于这两个算法的公式推导比较多，因此以图片的形式呈现总结。
+由于这两个算法的公式推导比较多，因此用手写的方式，以图片的形式呈现总结。
 
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
